@@ -2,6 +2,6 @@
 
 def first_test():
     print("First test")
-
+    
 def second_test():
-    pass
+    print("Second test")
